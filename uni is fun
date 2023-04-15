@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <h1> Digital Delights Student Number: 34399394</h1>
+
+       <b>  Are you tired of typical and ordinary view sites that only scratch the surface of your favorited video games? Look no further than Digital Delights, the ultimate platform for video game enthusiasts. We go beyond the basics, providing a comprehensive exploration of each game, including mechanics, storyline, and historical context. Our team of experienced gamers offers a unique perspective on what makes a game great, while also highlighting any areas where a game falls short. At Digital Delights, we understand that the rising costs of gaming make it more important than ever to know which games are worth the investment </b>
+
+       <h2> That's why we provide a percentage rating to give viewers a quick understanding of our overall stance on a game and how positively we rate it. But we're not just about helping gamers find the right game. We're also committed to inspiring appreciation for the creativity and dedication that goes into creating a video game. As an art form, video games are a time capsule of creativity and a desire to produce engaging entertainment. Our team at Digital Delights recognizes this, and we strive to share our opinions and philosophies behind each game we explore. Whether it's the gameplay mechanics, storyline, or historical context, we provide an in-depth understanding of what makes a game great. So, if you're passionate about gaming and looking for a go-to resource to help you make informed decisions about your purchases, look no further than Digital Delights. Our dedication to providing a well-rounded exploration of games, along with our commitment to inspiring appreciation for the art form of video games, sets us apart from other review sites. Join us on our journey as we explore the vast world of video games and discover the digital delights that await us.</h2>
+    
+    <h3>For this project, I have chosen to use a Windows Azure License. I chose this because my other option Amazon AWS was a little more complex to navigate and use. While Windows Azure for myself felt more streamlined, organized, and easier to use. And since the pricing between the two Infrastructures, and service options were very similar, I decided to just use the option that I felt more comfortable using. Another justification for my picking Azure is how it's part of the Microsoft ecosystem, making it easier to use other Microsoft products with it.
+        Microsoft Windows Server 2023 - License - 5 RDS users - OEM
+         </h3>
+    </body>
+</html>
